@@ -63,11 +63,10 @@ pip install -r requirements.txt
 ```
 
 ### 2. Configure Environment Variables
-Create a `.env` file in the root folder (or modify the generated one):
+Create a `.env` file in the root folder:
 ```env
 GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 ```
-*(Alternatively, you can start the application and enter your API Key in the sidebar input box.)*
 
 ### 3. Generate Mock FMCG Datasets
 Generate the 24-week synthetic datasets:
