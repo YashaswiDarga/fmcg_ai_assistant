@@ -1,0 +1,41 @@
+store_id,store_name,region,city,store_format
+STORE001,"Wilson, Ward and Logan Convenience",North,New York,Convenience
+STORE002,Chaney-Jones Hypermarket,South,Miami,Hypermarket
+STORE003,Lam LLC Supermarket,North,Minneapolis,Supermarket
+STORE004,Ritter-Brown Supermarket,West,Los Angeles,Supermarket
+STORE005,"Anderson, Sanchez and Blackwell Hypermarket",North,Chicago,Hypermarket
+STORE006,"Nguyen, May and Robertson Hypermarket",North,Minneapolis,Hypermarket
+STORE007,Ross-Jensen Wholesale,West,San Francisco,Wholesale
+STORE008,Roach and Sons Hypermarket,East,Philadelphia,Hypermarket
+STORE009,Mccormick LLC Convenience,West,Seattle,Convenience
+STORE010,Ramirez-Roberson Convenience,South,Miami,Convenience
+STORE011,Sanchez-Crosby Wholesale,North,New York,Wholesale
+STORE012,Hughes Group Convenience,North,Boston,Convenience
+STORE013,"Young, Torres and Butler Wholesale",East,Philadelphia,Wholesale
+STORE014,Parsons and Sons Supermarket,North,Detroit,Supermarket
+STORE015,Huang-Pierce Convenience,East,Baltimore,Convenience
+STORE016,Sanchez and Sons Supermarket,South,Houston,Supermarket
+STORE017,Ray-Gibson Supermarket,South,Atlanta,Supermarket
+STORE018,Webster-Haney Wholesale,South,Houston,Wholesale
+STORE019,"Sanders, Mitchell and Thompson Convenience",East,Charlotte,Convenience
+STORE020,"Powell, Mitchell and Kirk Convenience",South,Atlanta,Convenience
+STORE021,"Jones, Wolfe and Williams Supermarket",South,Atlanta,Supermarket
+STORE022,Skinner-Bird Hypermarket,South,Nashville,Hypermarket
+STORE023,Miller PLC Wholesale,South,Dallas,Wholesale
+STORE024,Dougherty LLC Hypermarket,East,Baltimore,Hypermarket
+STORE025,Hobbs-Moore Hypermarket,East,Philadelphia,Hypermarket
+STORE026,Williams-Smith Wholesale,North,Boston,Wholesale
+STORE027,"Ramirez, Thompson and Allen Hypermarket",East,Philadelphia,Hypermarket
+STORE028,Martinez Inc Wholesale,East,Washington,Wholesale
+STORE029,"Thompson, Small and Carlson Hypermarket",West,Denver,Hypermarket
+STORE030,"Vasquez, Boone and Myers Hypermarket",East,Washington,Hypermarket
+STORE031,Peterson Inc Wholesale,East,Baltimore,Wholesale
+STORE032,Martin-Prince Hypermarket,West,Seattle,Hypermarket
+STORE033,Johns-King Wholesale,South,Nashville,Wholesale
+STORE034,Simmons PLC Supermarket,North,New York,Supermarket
+STORE035,Coleman-Huang Wholesale,South,Miami,Wholesale
+STORE036,"Gonzalez, Riley and Armstrong Wholesale",North,Detroit,Wholesale
+STORE037,"White, Bell and Quinn Convenience",West,Phoenix,Convenience
+STORE038,Cortez-Goodman Convenience,North,New York,Convenience
+STORE039,Howard-Bowen Convenience,East,Philadelphia,Convenience
+STORE040,"Kelley, Martin and Mcclain Wholesale",West,San Francisco,Wholesale

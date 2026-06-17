@@ -1,0 +1,21 @@
+product_name,brand,category,sub_category,pack_size_ml,unit_price,product_id
+Cola Classic,FizzCo,Carbonated,Cola,500,1.99,PROD001
+Diet Cola,FizzCo,Carbonated,Diet Cola,500,1.99,PROD002
+Lemon Lime Fizz,FizzCo,Carbonated,Lemon Lime,330,1.49,PROD003
+Ginger Beer Elite,FizzCo,Carbonated,Ginger,330,2.49,PROD004
+Premium Orange Juice,Juicy,Juice,Orange,1000,4.49,PROD005
+Apple Orchard Delight,Juicy,Juice,Apple,1000,3.99,PROD006
+Mango Passion Nectar,Juicy,Juice,Mango,500,2.99,PROD007
+Ruby Cranberry Splash,Juicy,Juice,Cranberry,1000,4.99,PROD008
+Pure Spring Water,AquaFit,Water,Still,500,0.99,PROD009
+Sparkling Mineral Water,AquaFit,Water,Sparkling,750,1.79,PROD010
+Electrolyte Active Water,AquaFit,Water,Enhanced,1000,2.29,PROD011
+Peach Infused Water,AquaFit,Water,Flavored,500,1.29,PROD012
+Energy Rush Original,Charge,Energy,Original,250,2.99,PROD013
+Zero Sugar Charge,Charge,Energy,Sugarfree,250,2.99,PROD014
+Blue Raspberry Boost,Charge,Energy,Berry,355,3.49,PROD015
+Coffee Monster Energy,Charge,Energy,Coffee,330,3.79,PROD016
+Organic Whole Milk,DairyDelight,Dairy,Milk,1000,2.49,PROD017
+Double Chocolate Shake,DairyDelight,Dairy,Flavored Milk,500,2.19,PROD018
+Strawberry Yogurt Drink,DairyDelight,Dairy,Yogurt Drink,250,1.89,PROD019
+Probiotic Kefir Classic,DairyDelight,Dairy,Kefir,500,3.29,PROD020
